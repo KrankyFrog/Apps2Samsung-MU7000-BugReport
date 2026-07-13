@@ -11,5 +11,5 @@ This repository contains a sanitized diagnostic package for an installation issu
 
 All personal information and device-unique identifiers have been removed.
 
-Original issue:
-<Patrick's GitHub Issue URL>
+Original Apps2Samsung issue:
+https://github.com/Apps2Samsung/Apps2Samsung/issues/454
