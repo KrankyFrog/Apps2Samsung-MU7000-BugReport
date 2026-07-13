@@ -4,10 +4,10 @@ This repository contains a sanitized diagnostic package for an installation issu
 
 ## Contents
 
-- BUG_REPORT.md
-- Logs
-- Screenshots
-- Sanitized screen recording
+- [BUG_REPORT.md](BUG_REPORT.md)
+- [Logs](logs/)
+- [Screenshots](screenshots/)
+- [Video](video/)
 
 All personal information and device-unique identifiers have been removed.
 
