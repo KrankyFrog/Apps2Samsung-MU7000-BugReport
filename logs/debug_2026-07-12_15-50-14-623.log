@@ -1,0 +1,26 @@
+Apps2Samsung Information: 0 : 2026-07-12 15:50:15.352 [GitHubAuth] No token found — using unauthenticated requests
+2026-07-12 15:50:15.522 Updated Jellyfin IP: http://192.168.1.253:8096
+2026-07-12 15:50:15.535 [LoadUsers] Fetching users from: http://192.168.1.253:8096/Users
+2026-07-12 15:50:15.540 Fetching installed plugins from: http://192.168.1.253:8096/Plugins
+2026-07-12 15:50:16.508 [LoadUsers] Loaded 4 users
+2026-07-12 15:50:16.522 [SelectedUsers] Saved 0 user IDs: 
+2026-07-12 15:50:16.525 [SelectedUsers] Saved 1 user IDs: [REDACTED]
+2026-07-12 15:50:18.275 Scan complete! Found 1 device(s) (debug port 26101 or REST API 8001).
+2026-07-12 15:52:14.562 [SamsungLoginService] Bound to http://localhost:4794
+2026-07-12 15:53:02.041 Applying configuration via JellyfinPackagePatcher
+2026-07-12 15:53:06.878 Injecting auto-login credentials...
+2026-07-12 15:53:09.892 [InjectAutoLogin] LocalAddress http://192.168.1.253:8096 reachable: False
+2026-07-12 15:53:09.902 [InjectAutoLogin] Auto-login credentials injected successfully with server ID: [REDACTED]
+2026-07-12 15:53:12.307 Resigning package with new certificate
+2026-07-12 15:53:13.898 [Install] Transport connection lost to 192.168.1.138: * Installing Jellyfin-AVPlay-SmartHub-Oblonged-2026-07-12-0243.wgt on 192.168.1.138 at location /opt/usr/apps/tmp...
+
+Error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+
+[Log written to: C:\Program Files\Apps2Samsung\Logs\process_install_2026-07-12_15-53-13-818.log]
+2026-07-12 15:53:50.500 Scan complete! Found 1 device(s) (debug port 26101 or REST API 8001).
+2026-07-12 15:54:45.944 Diagnose canDelete: True, alreadyInstalled: False, appId: 
+2026-07-12 15:54:46.320 Applying configuration via JellyfinPackagePatcher
+2026-07-12 15:54:51.212 Injecting auto-login credentials...
+2026-07-12 15:54:54.222 [InjectAutoLogin] LocalAddress http://192.168.1.253:8096 reachable: False
+2026-07-12 15:54:54.224 [InjectAutoLogin] Auto-login credentials injected successfully with server ID: [REDACTED]
+2026-07-12 15:54:57.031 Resigning package with new certificate
